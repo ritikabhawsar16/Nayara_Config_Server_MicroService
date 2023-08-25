@@ -1,6 +1,6 @@
 spring:
   application:
-    name: Indent-Module-Default
+    name: Indent-Module-Server-Default
 
 eureka:
   client:
